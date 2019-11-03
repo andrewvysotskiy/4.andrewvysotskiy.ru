@@ -1,1 +1,1 @@
-Example of business card website on 4.andrewvysotskiy.ru
+Example of business card website. You can see it on 4.andrewvysotskiy.ru
